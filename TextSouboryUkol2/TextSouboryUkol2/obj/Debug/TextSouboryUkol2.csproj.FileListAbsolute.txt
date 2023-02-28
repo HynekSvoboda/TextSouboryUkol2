@@ -1,0 +1,11 @@
+D:\prgProjects\TextSouboryUkol2\TextSouboryUkol2\bin\Debug\TextSouboryUkol2.exe.config
+D:\prgProjects\TextSouboryUkol2\TextSouboryUkol2\bin\Debug\TextSouboryUkol2.exe
+D:\prgProjects\TextSouboryUkol2\TextSouboryUkol2\bin\Debug\TextSouboryUkol2.pdb
+D:\prgProjects\TextSouboryUkol2\TextSouboryUkol2\obj\Debug\TextSouboryUkol2.csproj.AssemblyReference.cache
+D:\prgProjects\TextSouboryUkol2\TextSouboryUkol2\obj\Debug\TextSouboryUkol2.csproj.SuggestedBindingRedirects.cache
+D:\prgProjects\TextSouboryUkol2\TextSouboryUkol2\obj\Debug\TextSouboryUkol2.Properties.Resources.resources
+D:\prgProjects\TextSouboryUkol2\TextSouboryUkol2\obj\Debug\TextSouboryUkol2.csproj.GenerateResource.cache
+D:\prgProjects\TextSouboryUkol2\TextSouboryUkol2\obj\Debug\TextSouboryUkol2.csproj.CoreCompileInputs.cache
+D:\prgProjects\TextSouboryUkol2\TextSouboryUkol2\obj\Debug\TextSouboryUkol2.exe
+D:\prgProjects\TextSouboryUkol2\TextSouboryUkol2\obj\Debug\TextSouboryUkol2.pdb
+D:\prgProjects\TextSouboryUkol2\TextSouboryUkol2\obj\Debug\TextSouboryUkol2.Form1.resources

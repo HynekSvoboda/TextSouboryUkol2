@@ -1,0 +1,6 @@
+Hobit;Tolkien;Anglie;Fantasy;1937
+Pán prstenù;Tolkien;Anglie;Fantasy;1954
+Volání kukaèky;Rowlingová;Anglie;Román;2013
+Neklidná krev;Rowlingová;Anglie;Mistery;2020
+To;Stephen King;Anglie;Horor;1986
+Carrie;Stephen King;Anglie;Horor;1976
